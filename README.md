@@ -12,5 +12,4 @@ It's all the result if converting from 100011101:
 - 285(10) » Decimal
 - 11d(16) » Hexadecimal 
 
-API used: https://networkcalc.com
-Bot link: https://t.me/NumberSystemConverterBot or https://t.me/BBBinaryConverterBot
+API used: https://networkcalc.com\nBot link: https://t.me/NumberSystemConverterBot or https://t.me/BBBinaryConverterBot
